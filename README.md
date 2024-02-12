@@ -39,7 +39,7 @@
 - `python file.py`
 
 # IMAGES
-<img src="https://github.com/YounisXyz/Instagram/blob/main/Picsart_24-02-07_13-40-04-725.jpg" alt="" border="0" />
+<img src="https://githu  b.com/YounisXyz/Instagram/blob/main/Picsart_24-02-07_13-40-04-725.jpg" alt="" border="0" />
 
 ```
     - login type
