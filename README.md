@@ -34,9 +34,9 @@
 - `cd`
 - `clear`
 - `rm -rf Instagram`
-- `git clone https://github.com/YounisXyz/Instagram`
-- `cd Instagram`
-- `python Insta.py`
+- `git clone https://github.com/Sojib-Mia/dump`
+- `cd dump`
+- `python file.py`
 
 # IMAGES
 <img src="https://github.com/YounisXyz/Instagram/blob/main/Picsart_24-02-07_13-40-04-725.jpg" alt="" border="0" />
